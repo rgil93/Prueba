@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Página-1" id="LPzA1EdKOrGCX12UJips">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PLq7bLbhNVtnZE1cqoIw-1" value="sd:&amp;nbsp;https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWExYzFlZDQtMTZiYi00NzA0LThmOTctNWM4ZGM3YTBmYjU5%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%221cc835ed-596e-45f8-ac82-881e093c78e5%22%7d" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PLq7bLbhNVtnZE1cqoIw-1" value="&lt;a href=&quot;https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OWExYzFlZDQtMTZiYi00NzA0LThmOTctNWM4ZGM3YTBmYjU5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252210a76712-94f6-46a2-9155-31bd8b76f937%2522%252c%2522Oid%2522%253a%25221cc835ed-596e-45f8-ac82-881e093c78e5%2522%257d%26anon%3Dtrue&amp;amp;type=meetup-join&amp;amp;deeplinkId=420dcc0a-81aa-4a4b-98f3-42211c1a493c&amp;amp;directDl=true&amp;amp;msLaunch=true&amp;amp;enableMobilePage=true&amp;amp;suppressPrompt=true&quot;&gt;Unirse a la conversación&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="100" width="300" height="180" as="geometry" />
         </mxCell>
       </root>
