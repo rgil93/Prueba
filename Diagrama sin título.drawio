@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Página-1" id="LPzA1EdKOrGCX12UJips">
-    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PLq7bLbhNVtnZE1cqoIw-1" value="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAxY2IyN2ItYmM4MC00NzJkLWFmNGMtMmE4OTNkMGU4NTM1%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%223c3c9702-ddcf-45b5-bc4b-1a681ed2fcbf%22%7d" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="100" width="300" height="180" as="geometry" />
+          <mxGeometry x="114" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BI7qu-xGezTDBP3VlgTr-1" value="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAxY2IyN2ItYmM4MC00NzJkLWFmNGMtMmE4OTNkMGU4NTM1%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%223c3c9702-ddcf-45b5-bc4b-1a681ed2fcbf%22%7d" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
