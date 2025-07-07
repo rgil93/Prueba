@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Página-1" id="LPzA1EdKOrGCX12UJips">
-    <mxGraphModel dx="872" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sPbjKGvhv6Vsv670f3T3-1" value="&lt;div&gt;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmRiZTNjNjQtYzlkNy00ODZkLThjZTMtYjVkMGY2MzdmYzEw%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%222a993d20-73c4-482a-b03c-164983dbd8a1%22%7d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sPbjKGvhv6Vsv670f3T3-1" value="&lt;div&gt;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmFiNDRiMWQtMDYwYy00YWRiLTkxNGItODJjZjE3MDYwYzRh%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%22257b3371-5433-4ced-ae2c-40ed6ea68b44%22%7d&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="230" y="330" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UyH3RrOYpDuyY4FOA350-1" value="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTk5NjM3NDMtODM0NS00NTExLTg4MzMtYjY1MmI2YzNiYWYz%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%222a993d20-73c4-482a-b03c-164983dbd8a1%22%7d" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
