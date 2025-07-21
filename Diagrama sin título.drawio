@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="Página-1" id="LPzA1EdKOrGCX12UJips">
-    <mxGraphModel dx="872" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sPbjKGvhv6Vsv670f3T3-1" value="&lt;div&gt;&lt;a dir=&quot;auto&quot; tabindex=&quot;0&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://teams.microsoft.com/l/meetup-join/19%253ameeting_NjAwZDkyYjItZDI3YS00MTI3LTliNjktOGQ0ZDY0NzlkZmMy%2540thread.v2/0?context=%257b%2522Tid%2522%253a%252210a76712-94f6-46a2-9155-31bd8b76f937%2522%252c%2522Oid%2522%253a%2522257b3371-5433-4ced-ae2c-40ed6ea68b44%2522%257d&quot;&gt;Planning Sprint #20 - Squad Contabilidad | Reunión- Unirse | Microsoft Teams&lt;/a&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sPbjKGvhv6Vsv670f3T3-1" value="&lt;div&gt;&lt;a dir=&quot;auto&quot; tabindex=&quot;0&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://teams.microsoft.com/l/meetup-join/19%253ameeting_YzJjYjgyMGQtNGEyZi00M2JmLWI0MjAtY2VhOTlkZTFjYTc2%2540thread.v2/0?context=%257b%2522Tid%2522%253a%252210a76712-94f6-46a2-9155-31bd8b76f937%2522%252c%2522Oid%2522%253a%25222a993d20-73c4-482a-b03c-164983dbd8a1%2522%257d&quot;&gt;Rutas Malla de Cierre | Reunión- Unirse | Microsoft Teams&lt;/a&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="300" height="300" as="geometry" />
         </mxCell>
       </root>
