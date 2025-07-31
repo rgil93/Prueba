@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Página-1" id="LPzA1EdKOrGCX12UJips">
     <mxGraphModel dx="872" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sPbjKGvhv6Vsv670f3T3-1" value="&lt;div&gt;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc2YTM1YjEtNzcxNy00ZTVhLWEwYmUtMjdmMmE1MDE2Mzcy%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%222a993d20-73c4-482a-b03c-164983dbd8a1%22%7d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sPbjKGvhv6Vsv670f3T3-1" value="&lt;div&gt;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRiYWM1ZmYtZjI3ZC00MmFmLTgwZjYtZGI1OTBhZWYzZGVh%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%221cc835ed-596e-45f8-ac82-881e093c78e5%22%7d&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="240" y="420" width="300" height="300" as="geometry" />
         </mxCell>
       </root>
