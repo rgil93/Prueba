@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C90WY8U2Wk8wmqkyb2XQ-1" value="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDlhNDc2OGYtNjkxZi00YjI5LTk0MGEtNTBiNDQzMmQwYjAz%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%22257b3371-5433-4ced-ae2c-40ed6ea68b44%22%7d" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="C90WY8U2Wk8wmqkyb2XQ-1" value="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDlhNDc2OGYtNjkxZi00YjI5LTk0MGEtNTBiNDQzMmQwYjAz%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%22257b3371-5433-4ced-ae2c-40ed6ea68b44%22%7d" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
